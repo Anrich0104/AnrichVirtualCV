@@ -9,5 +9,9 @@ https://anrich0104.github.io/AnrichVirtualCV/
 To create this virtual CV I used:
 - HTML and CSS
 ## Desktop Images
+<img width="350" height="450" alt="img1" src="https://github.com/user-attachments/assets/b31b7229-8c2b-4c90-88ff-bd87edea838f" />
+<img width="350" height="450" alt="img2" src="https://github.com/user-attachments/assets/be17e40a-e231-4ac8-a3f9-0cd8b1d55380" />
+<img width="350" height="450" alt="img3" src="https://github.com/user-attachments/assets/797b9523-b062-408a-9e34-8d531382cab5" />
 
 ## Mobile Images
+
